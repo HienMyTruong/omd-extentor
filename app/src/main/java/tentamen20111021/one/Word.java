@@ -1,4 +1,4 @@
-package tentamen20111021;
+package tentamen20111021.one;
 
 public class Word {
     private int value;
@@ -8,7 +8,7 @@ public class Word {
     }
 
     public void add(Word lw, Word rw) {
-        value = lw.value + rw.value;
+        value = lw.value + rw.value; // inkapsling
     }
 
     public String toString() {

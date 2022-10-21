@@ -1,7 +1,7 @@
 package tentamen20111021.two;
 
 public abstract class Event {
-    public abstract String kind();
+    public abstract String kind(); // Templete method
 
     protected int time;
 

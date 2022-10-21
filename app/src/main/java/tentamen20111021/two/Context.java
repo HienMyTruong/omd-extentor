@@ -6,4 +6,12 @@ public class Context {
 
     }
 
+    public void departure(int time) {
+
+    }
+
+    public void measurement(int time) {
+
+    }
+
 }

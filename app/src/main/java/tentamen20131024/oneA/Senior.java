@@ -1,4 +1,4 @@
-package tentamen20131024.one;
+package tentamen20131024.oneA;
 
 public class Senior extends Member {
     private int amount = 3000;

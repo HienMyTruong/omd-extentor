@@ -1,4 +1,4 @@
-package tentamen20151028;
+package tentamen20151028.three;
 
 public class Square extends Shape {
     private int side;

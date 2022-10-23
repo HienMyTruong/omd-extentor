@@ -1,4 +1,4 @@
-package tentamen20131024.one;
+package tentamen20131024.oneA;
 
 public abstract class Member {
     protected String name;

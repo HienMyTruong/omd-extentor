@@ -1,4 +1,4 @@
-package tentamen20151028;
+package tentamen20151028.three;
 
 public abstract class Shape implements IShape {
     protected int x;
